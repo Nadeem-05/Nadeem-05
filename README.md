@@ -1,5 +1,6 @@
-### Hi there 👋
-### Python dev for discord bots
+### Nadeem
+### Python Self taught
+### gonna change this soon
 <!--
 **technicaldiff/technicaldiff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
