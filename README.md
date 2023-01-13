@@ -34,4 +34,4 @@
 <br />
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nadeem-05&show_icons=true&theme=radical" alt="My github stats" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nadeem-05&show_icons=true&theme=radical)
