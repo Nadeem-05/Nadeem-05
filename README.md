@@ -22,7 +22,7 @@
 <img align="left" alt="Fleet" width="26px" src="https://pbs.twimg.com/profile_images/1463886702548852744/AY8F8UB0_400x400.png" />
 
 <img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" />
-<img align="left" alt="Linux" width="26px" src="https://iconarchive.com/download/i45763/tatice/operating-systems/Linux.ico" />
+<img align="left" alt="Linux" width="26px" src="[https://iconarchive.com/download/i45763/tatice/operating-systems/Linux.ico](https://cdn-icons-png.flaticon.com/512/25/25719.png)" />
 <img align="left" alt="Windows" width="26px" src="https://www.freeiconspng.com/thumbs/windows-icon-png/system-windows-icon-png-4.png" />
 <img align="left" alt="Macintosh" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Icon-Mac.svg/1024px-Icon-Mac.svg.png" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/600px-Python_logo_01.svg.png" />
