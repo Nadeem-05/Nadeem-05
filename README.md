@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="nadeem.gq" width="22px" src="https://icon-library.com/images/website-icon-code/website-icon-code-29.jpg" />](https://nadeem.gq)
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />](https://www.linkedin.com/in/MNadeem05/)
-[<img align="left" alt="Discord" width="22px" src="https://w7.pngwing.com/pngs/842/992/png-transparent-discord-computer-servers-teamspeak-discord-icon-video-game-smiley-online-chat-thumbnail.png" />](https://discord.com/users/733633836964905001)
+[<img align="left" alt="nadeem.gq" width="22px" target="_blank" src="https://icon-library.com/images/website-icon-code/website-icon-code-29.jpg" />](https://nadeem.gq)
+[<img align="left" alt="LinkedIn" width="22px" target="_blank" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />](https://www.linkedin.com/in/MNadeem05/)
+[<img align="left" alt="Discord" width="22px" target="_blank" src="https://w7.pngwing.com/pngs/842/992/png-transparent-discord-computer-servers-teamspeak-discord-icon-video-game-smiley-online-chat-thumbnail.png" />](https://discord.com/users/733633836964905001)
 
 <br />
 
