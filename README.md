@@ -31,8 +31,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 <img align="left" alt="Terminal" width="26px" src="https://cdn0.iconfinder.com/data/icons/cosmo-multimedia/40/terminal-512.png" />
 <br />
-<br />
 ### My stats:
+<br /
 ![Nadeeem's Github stats](https://github-readme-stats.vercel.app/api?username=Nadeem-05&show_icons=true&theme=radical)
  <br />
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nadeem-05&theme=transparent&date_format=M%20j%5B%2C%20Y%5D)
