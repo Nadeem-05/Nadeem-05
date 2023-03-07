@@ -32,12 +32,15 @@
 <img align="left" alt="Terminal" width="26px" src="https://cdn0.iconfinder.com/data/icons/cosmo-multimedia/40/terminal-512.png" />
 <br />
 
-<h5>My stats</h5>
+<h3>My stats</h3>
 <p align = "center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Nadeem-05"/></a>
+<br />
 <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=Nadeem-05&show_icons=true&locale=en"/></a>
+ <br />
 <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadeem-05&layout=compact&theme=radical"/></a>
+ <br />
 <a href="https://git.io/streak-stats"><img src="https://github-profile-trophy.vercel.app/?username=Nadeem-05&theme=monokai&column=3&margin-w=15&margin-h=15"/></a>
-
+<br />
 </p>
 
