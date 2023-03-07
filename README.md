@@ -33,8 +33,10 @@
 <br />
 <br />
 ### My stats:
-<p align = center>
 ![Nadeeem's Github stats](https://github-readme-stats.vercel.app/api?username=Nadeem-05&show_icons=true&theme=radical)
+ <br />
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nadeem-05&theme=transparent&date_format=M%20j%5B%2C%20Y%5D)
+ <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nadeem-05)
-</p>
+ <br />
+
