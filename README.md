@@ -1,4 +1,4 @@
-### Hi there, I'm [Nadeem](https://nadeem.gq) 👋 
+### Hi there, I'm [Nadeem](https://nadeem.is-a.dev) 👋 
 
 ## I'm a Developer,Student and Cyber Security Enthusiast!!
 
